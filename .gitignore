@@ -1,0 +1,11 @@
+# env
+.env
+
+#venv
+venv
+
+#cache
+__pycache__
+
+#data files
+data/*
